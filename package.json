@@ -1,5 +1,5 @@
 {
-  "name": "react-native-chips",
+  "name": "react-native-chips-ui",
   "version": "1.0.0",
   "description": "A react native chip library to create easy to use custoizable chips",
   "main": "index.js",

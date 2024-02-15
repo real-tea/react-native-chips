@@ -1,15 +1,24 @@
 {
   "name": "react-native-chips",
   "version": "1.0.0",
-  "description": "",
+  "description": "A react native chip library to create easy to use custoizable chips",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Akash Singh",
   "license": "ISC",
   "dependencies": {
     "react-native-svg": "^14.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/real-tea/react-native-chips.git"
+  },
+  "bugs": {
+    "url": "https://github.com/real-tea/react-native-chips/issues"
+  },
+  "homepage": "https://github.com/real-tea/react-native-chips#readme"
 }

@@ -11,9 +11,13 @@ $ yarn add react-native-chips-ui
 
 ## Examples
 
-# Chip Component Example
+### Chip Component Example
 
-variant types -> solid , outlined , disabled
+```
+variant types -> solid (default) , outlined , disabled
+label -> "string"
+```
+
 
 ```typescript
 import React from "react";
@@ -56,7 +60,9 @@ export default App;
 
 ```
 
-# Chips component example
+### Chips component example
+
+itemVariant -> solid(default) , outline, disabled
 
 ```typescript
 import React, { useState } from "react";

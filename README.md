@@ -62,7 +62,9 @@ export default App;
 
 ### Chips component example
 
+```
 itemVariant -> solid(default) , outline, disabled
+```
 
 ```typescript
 import React, { useState } from "react";
